@@ -1,0 +1,12 @@
+# Moltboss — Agent System
+
+> Moltboss agent for Genesis Conductor ecosystem.
+
+## Features
+- Agent orchestration
+- Part of multi-agent fleet
+
+## Creator
+Igor Holt — AI Architect
+Genesis Conductor Engine
+https://genesisconductor.io
